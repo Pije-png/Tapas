@@ -7,5 +7,7 @@
 </head>
 <body>
     register
+
+    this is the register page
 </body>
 </html>
