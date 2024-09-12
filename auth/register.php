@@ -9,5 +9,8 @@
     register
 
     this is the register page
+    this is the register page
+    this is the register page
+    this is the register page
 </body>
 </html>
