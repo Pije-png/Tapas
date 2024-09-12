@@ -8,6 +8,8 @@
 <body>
     register
 
-    this is the register page
+    this is the register page from branch 2
+    this is the register page from branch 2
+    this is the register page from branch 2
 </body>
 </html>
